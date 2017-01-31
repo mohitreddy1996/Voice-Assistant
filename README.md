@@ -17,4 +17,4 @@ Python based voice assistant using Google speech recognition and google text to 
 * Rhythmbox Controls (Play, Pause, Next, Previous, Stop)
 * Text/Code Editors (CLion, Webstorm, PyCharm, Android Studio, Gedit, Sublime)
 * YLC Controls (Play a movie, download subtitles using _subtitle downloader (personal project)_ ).
-* Open Terminal
+* ~~Open Terminal~~
